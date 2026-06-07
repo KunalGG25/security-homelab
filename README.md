@@ -1,6 +1,6 @@
 # Kunal's Cybersecurity Homelab Portfolio
 
-> SOC Analyst in progress · ISC2 CC certified · CompTIA Security+ SY0-701 (in progress)
+> SOC Analyst in progress · CompTIA Security+ SY0-701 (in progress)
 > Homelab: Proxmox · TrueNAS · pfSense · Wazuh (planned)
 
 Hands-on security projects covering offensive techniques, defensive detection, malware analysis, and Active Directory attacks. Every project runs in a real homelab — not a course VM. Results are real.
